@@ -15,6 +15,7 @@
  - Mute mode
  - Loop toggle mode
  - AndroidX version project
+ - <b><b> Run in background notification </b></b>
  
  # Get started
 
@@ -97,6 +98,13 @@ Given a video file and a separate subtitle file, MergingMediaSource can be used 
    false //Reset state
   );
 ```
+
+##6 Run in background
+
+ Notification Player background           
+:-------------------------:|:-------------------------:
+![](https://github.com/HC005/HCPlayer/blob/master/device-2021-02-18-174051.png) 
+
 
 ## Version notes
 
