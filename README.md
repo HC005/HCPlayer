@@ -1,5 +1,4 @@
-# AndroidVideoPlayer
-A video player based on Exoplayer 
+# HCPlayer - VideoPlayer
 
 customized playerView            |  quality options
 :-------------------------:|:-------------------------:
@@ -8,7 +7,7 @@ customized playerView            |  quality options
  - Support different stream type including [Progressive, HLS, DASH, SmoothStreaming](https://exoplayer.dev/media-sources.html)
  - Play list of videos or resume video from last watched position
  - Support different video qualities
- - Switch between different subtitles
+ - Switch between different <b>subtitles</b>
  - Cache video
  - Lock player screen
  - Forward and backward by double tap on screen
@@ -21,20 +20,6 @@ customized playerView            |  quality options
  ## 1. Dependencies
  In this project we used Exoplayer v.2.11.3
 
-```java
- //Exoplayer
- implementation 'com.google.android.exoplayer:exoplayer:2.11.3'
-
- // Room
- // To save each video subtitles & video last watched length to resume player on next play
- implementation 'androidx.room:room-runtime:2.2.3'
-
- // Stetho Optional
- debugImplementation 'com.facebook.stetho:stetho:1.5.1'
-
- // Leak canary Optional
- debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.6.3'
-```
 
 ## 2. Create an instance of VideoPlayer in your activity
 
