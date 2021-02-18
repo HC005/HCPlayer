@@ -1,4 +1,4 @@
-# HCPlayer - VideoPlayer
+# HCPlayer - VideoPlayer - BackgroundRunning
 
  playerView            |  playerview landscap
 :-------------------------:|:-------------------------:
