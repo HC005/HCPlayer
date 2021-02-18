@@ -1,8 +1,9 @@
 # HCPlayer - VideoPlayer
 
-customized playerView            |  quality options
+ playerView            |  playerview landscap
 :-------------------------:|:-------------------------:
-![](https://github.com/ArezooNazer/AndroidVideoPlayer/blob/master/demo/Screenshot_2020-03-26-19-40-37.png)  |  ![](https://github.com/ArezooNazer/AndroidVideoPlayer/blob/master/demo/Screenshot_2020-03-26-16-32-28.png)
+![](https://github.com/HC005/HCPlayer/blob/master/device-2021-02-18-172743.png)  |  ![](https://github.com/HC005/HCPlayer/blob/master/device-2021-02-18-172820.png)
+
 # Features
  - Support different stream type including [Progressive, HLS, DASH, SmoothStreaming](https://exoplayer.dev/media-sources.html)
  - Play list of videos or resume video from last watched position
@@ -71,6 +72,12 @@ Initialize your ExoPlayer in VideoPlayer as follow :
 Add listener implementations for player control buttons in your activity.
 
 ## 5. Subtitle
+
+ Subtitle            |  playerview with subtitle
+:-------------------------:|:-------------------------:
+![](https://github.com/HC005/HCPlayer/blob/master/device-2021-02-18-173028.png)  |  ![](https://github.com/HC005/HCPlayer/blob/master/device-2021-02-18-173706.png)
+
+
 As mentioned in [ExoPlayer Doc](https://exoplayer.dev/media-sources.html):
 Given a video file and a separate subtitle file, MergingMediaSource can be used to merge them into a single source for playback.
 
