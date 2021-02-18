@@ -20,7 +20,7 @@
  # Get started
 
  ## 1. Dependencies
- In this project we used Exoplayer v.2.11.3
+ use as a dependency video plaayer
 
 
 ## 2. Create an instance of VideoPlayer in your activity
