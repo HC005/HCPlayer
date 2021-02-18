@@ -13,7 +13,7 @@ customized playerView            |  quality options
  - Forward and backward by double tap on screen
  - Mute mode
  - Loop toggle mode
- - AndroidX, ExoPlayer version is 2.11.3
+ - AndroidX version project
  
  # Get started
 
