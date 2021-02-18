@@ -45,8 +45,8 @@
  player.seekToOnDoubleTap();
 ```
     
-## 3. Initialize ExoPlayer
-Initialize your ExoPlayer in VideoPlayer as follow :
+## 3. Initialize Player
+Initialize your Player in VideoPlayer as follow :
  
  ```java
   cacheDataSourceFactory = new CacheDataSourceFactory(
