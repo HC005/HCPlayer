@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.app;
+package com.hcplayer.myvideoplayer.app;
 
 import android.app.Application;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer;
+package com.hcplayer.myvideoplayer;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.presentation;
+package com.hcplayer.myvideoplayer.presentation;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,12 +6,12 @@ import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.hcplayer.videoplayer.R;
-import com.hcplayer.videoplayer.data.database.AppDatabase;
-import com.hcplayer.videoplayer.data.database.Subtitle;
-import com.hcplayer.videoplayer.data.database.Video;
-import com.hcplayer.videoplayer.data.model.VideoSource;
-import com.hcplayer.videoplayer.presentation.player.PlayerActivity;
+import com.hcplayer.myvideoplayer.R;
+import com.hcplayer.myvideoplayer.data.database.AppDatabase;
+import com.hcplayer.myvideoplayer.data.database.Subtitle;
+import com.hcplayer.myvideoplayer.data.database.Video;
+import com.hcplayer.myvideoplayer.data.model.VideoSource;
+import com.hcplayer.myvideoplayer.presentation.player.PlayerActivity;
 
 import java.util.ArrayList;
 import java.util.List;

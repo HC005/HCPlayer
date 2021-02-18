@@ -1,9 +1,9 @@
-package com.hcplayer.videoplayer.presentation.player.util;
+package com.hcplayer.myvideoplayer.presentation.player.util;
 
 import android.content.Context;
 import android.util.Log;
 
-import com.hcplayer.videoplayer.R;
+import com.hcplayer.myvideoplayer.R;
 import com.google.android.exoplayer2.upstream.DataSource;
 import com.google.android.exoplayer2.upstream.DefaultBandwidthMeter;
 import com.google.android.exoplayer2.upstream.DefaultDataSourceFactory;

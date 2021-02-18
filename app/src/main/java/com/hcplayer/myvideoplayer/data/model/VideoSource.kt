@@ -1,7 +1,7 @@
-package com.hcplayer.videoplayer.data.model
+package com.hcplayer.myvideoplayer.data.model
 
 import android.os.Parcelable
-import com.hcplayer.videoplayer.data.database.Subtitle
+import com.hcplayer.myvideoplayer.data.database.Subtitle
 import kotlinx.android.parcel.Parcelize
 
 

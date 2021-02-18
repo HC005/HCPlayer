@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.presentation.player.util;
+package com.hcplayer.myvideoplayer.presentation.player.util;
 
 /*
  * Copyright (C) 2018 The Android Open Source Project
@@ -43,7 +43,7 @@ import com.google.android.exoplayer2.trackselection.MappingTrackSelector;
 import com.google.android.exoplayer2.ui.DefaultTrackNameProvider;
 import com.google.android.exoplayer2.ui.TrackNameProvider;
 import com.google.android.exoplayer2.util.Assertions;
-import com.hcplayer.videoplayer.R;
+import com.hcplayer.myvideoplayer.R;
 
 import java.util.Arrays;
 

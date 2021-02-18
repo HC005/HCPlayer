@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.data.database
+package com.hcplayer.myvideoplayer.data.database
 
 import androidx.room.Entity
 import androidx.room.ForeignKey

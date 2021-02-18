@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.presentation.player.util;
+package com.hcplayer.myvideoplayer.presentation.player.util;
 
 public interface PlayerController {
 

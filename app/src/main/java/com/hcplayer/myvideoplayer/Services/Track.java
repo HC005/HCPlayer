@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.Services;
+package com.hcplayer.myvideoplayer.Services;
 
 public class Track {
 

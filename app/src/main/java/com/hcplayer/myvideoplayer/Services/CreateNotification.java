@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.Services;
+package com.hcplayer.myvideoplayer.Services;
 
 import android.app.Notification;
 import android.app.PendingIntent;
@@ -13,7 +13,7 @@ import android.util.Log;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
-import com.hcplayer.videoplayer.R;
+import com.hcplayer.myvideoplayer.R;
 
 
 public class CreateNotification {

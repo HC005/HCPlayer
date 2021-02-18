@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.presentation.player.util;
+package com.hcplayer.myvideoplayer.presentation.player.util;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -13,8 +13,8 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.WindowManager;
 
-import com.hcplayer.videoplayer.data.database.Subtitle;
-import com.hcplayer.videoplayer.data.model.VideoSource;
+import com.hcplayer.myvideoplayer.data.database.Subtitle;
+import com.hcplayer.myvideoplayer.data.model.VideoSource;
 import com.google.android.exoplayer2.C;
 import com.google.android.exoplayer2.ExoPlaybackException;
 import com.google.android.exoplayer2.Format;

@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.presentation.player;
+package com.hcplayer.myvideoplayer.presentation.player;
 
 import android.annotation.SuppressLint;
 import android.app.NotificationChannel;
@@ -29,14 +29,14 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.hcplayer.videoplayer.R;
-import com.hcplayer.videoplayer.Services.CreateNotification;
-import com.hcplayer.videoplayer.Services.OnClearFromRecentService;
-import com.hcplayer.videoplayer.app.PlayerApplication;
-import com.hcplayer.videoplayer.data.database.AppDatabase;
-import com.hcplayer.videoplayer.data.model.VideoSource;
-import com.hcplayer.videoplayer.presentation.player.util.PlayerController;
-import com.hcplayer.videoplayer.presentation.player.util.VideoPlayer;
+import com.hcplayer.myvideoplayer.R;
+import com.hcplayer.myvideoplayer.Services.CreateNotification;
+import com.hcplayer.myvideoplayer.Services.OnClearFromRecentService;
+import com.hcplayer.myvideoplayer.app.PlayerApplication;
+import com.hcplayer.myvideoplayer.data.database.AppDatabase;
+import com.hcplayer.myvideoplayer.data.model.VideoSource;
+import com.hcplayer.myvideoplayer.presentation.player.util.PlayerController;
+import com.hcplayer.myvideoplayer.presentation.player.util.VideoPlayer;
 import com.google.android.exoplayer2.text.CaptionStyleCompat;
 import com.google.android.exoplayer2.ui.PlayerView;
 

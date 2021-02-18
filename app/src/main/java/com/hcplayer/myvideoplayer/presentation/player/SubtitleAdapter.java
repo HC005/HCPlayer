@@ -1,4 +1,4 @@
-package com.hcplayer.videoplayer.presentation.player;
+package com.hcplayer.myvideoplayer.presentation.player;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -8,9 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.hcplayer.videoplayer.R;
-import com.hcplayer.videoplayer.data.database.Subtitle;
-import com.hcplayer.videoplayer.presentation.player.util.VideoPlayer;
+import com.hcplayer.myvideoplayer.R;
+import com.hcplayer.myvideoplayer.data.database.Subtitle;
+import com.hcplayer.myvideoplayer.presentation.player.util.VideoPlayer;
 
 import java.util.List;
 
