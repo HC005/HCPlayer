@@ -7,7 +7,7 @@ customized playerView            |  quality options
  - Support different stream type including [Progressive, HLS, DASH, SmoothStreaming](https://exoplayer.dev/media-sources.html)
  - Play list of videos or resume video from last watched position
  - Support different video qualities
- - Switch between different subtitles
+ - Switch between different <b>subtitles</b>
  - Cache video
  - Lock player screen
  - Forward and backward by double tap on screen
